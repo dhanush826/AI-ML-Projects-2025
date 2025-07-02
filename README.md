@@ -11,5 +11,5 @@ A machine learning project to predict survival of Titanic passengers using logis
 - `Titanic_Survival_Prediction.ipynb` – ML notebook with data cleaning, visualization, model training
 - `clean_titanic.csv` – Cleaned version of Titanic dataset
 
-### Accuracy: ~82%
+### Accuracy: ~82%.
 
